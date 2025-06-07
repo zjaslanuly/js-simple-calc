@@ -4,15 +4,15 @@ A simple JavaScript calculator that performs basic arithmetic operations — add
 
 ## ✨ Features
 
-- ✅ Addition, subtraction, multiplication, and division
-- ✅ Clean and minimal interface
+- ✅ Basic operations: +, −, ×, ÷
+- ✅ Clean and responsive UI using [Bootstrap](https://getbootstrap.com/)
 - ✅ Result display with dynamic color:
-  - 🟢 Green if the result is positive
-  - ⚪ Gray if the result is zero
-  - 🔴 Red if the result is negative
+  - 🟢 Green for positive results
+  - ⚪ Gray for zero
+  - 🔴 Red for negative results
 
 ## 🛠️ Tech Stack
 
 - HTML
-- CSS
+- Bootstrap 5
 - JavaScript (Vanilla)
