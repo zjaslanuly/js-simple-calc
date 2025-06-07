@@ -5,7 +5,7 @@ A simple JavaScript calculator that performs basic arithmetic operations — add
 ## ✨ Features
 
 - ✅ Basic operations: +, −, ×, ÷
-- ✅ Clean and responsive UI using [Bootstrap](https://getbootstrap.com/){:target="_blank" rel="noopener noreferrer"}
+- ✅ Clean and responsive UI using <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap</a>
 - ✅ Result display with dynamic color:
   - 🟢 Green for positive results
   - ⚪ Gray for zero
